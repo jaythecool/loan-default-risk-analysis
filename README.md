@@ -135,7 +135,6 @@ The segments separate risk clearly (21% → 42% → 76%). However, the Medium se
 ```bash
 # 1. Clone the repository
 git clone https://github.com/jaythecool/loan-default-risk-analysis.git
-cd <your-repo>
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn jupyter

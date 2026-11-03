@@ -134,7 +134,7 @@ The segments separate risk clearly (21% → 42% → 76%). However, the Medium se
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/jaythecool/loan-default-risk-analysis.git
 cd <your-repo>
 
 # 2. Install dependencies
@@ -167,4 +167,4 @@ This project uses **synthetic data** for learning and demonstration purposes. Fi
 ## 👤 Author
 
 **Jayesh Vengurlekar**
-[LinkedIn](https://www.linkedin.com/in/jayesh-vengurlekar-80309214b/) · [GitHub](https://github.com/jaythecool)
+[LinkedIn](https://www.linkedin.com/in/jayesh-vengurlekar-80309214b/) · [GitHub](https://github.com/jaythecool) ·

@@ -1,0 +1,29 @@
+column_name,description,type
+loan_id,Unique loan identifier,Identifier
+customer_id,Unique borrower identifier,Identifier
+age,Borrower age in years,Numeric
+gender,Borrower gender,Categorical
+annual_income,Annual borrower income,Numeric
+employment_type,Employment category,Categorical
+employment_length_years,Years in employment,Numeric
+credit_score,Credit score from 300 to 850,Numeric
+home_ownership,Housing ownership status,Categorical
+existing_loans,Number of existing loans,Numeric
+delinquencies,Historical delinquency count,Numeric
+previous_defaults,Previous default count,Numeric
+loan_purpose,Purpose of current loan,Categorical
+loan_amount,Current loan principal,Numeric
+loan_term_months,Loan duration in months,Numeric
+interest_rate,Annual interest rate (%),Numeric
+debt_to_income_ratio,Debt-to-income ratio,Numeric
+monthly_payment,Estimated monthly installment,Numeric
+issue_date,Loan origination date,Date
+region,Borrower region,Categorical
+loan_status,Current loan outcome/status,Categorical
+default_flag,"1 if defaulted, otherwise 0",Target
+age_group,Derived age segment,Derived
+income_group,Derived income segment,Derived
+credit_score_band,Derived credit score segment,Derived
+dti_band,Derived DTI segment,Derived
+risk_score,Synthetic analytical risk score (0-100),Derived
+risk_category,Low/Medium/High synthetic risk category,Derived
